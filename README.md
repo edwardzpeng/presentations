@@ -8,6 +8,8 @@ More things can be found in my personal site: https://sites.google.com/site/zhin
     Wh1te, Zhiniang Peng, OLE object are still dangerous today — Exploiting Microsoft Office, POC 2023
     
     Zhiniang Peng, Django-Simple-Captcha — JumpServer Preauth RCE, Mosec BaijiuCon 2023
+
+    Zhiniang Peng, APT vs GPT - My Campus Talk in 2023
     
     Zhiniang Peng, vSphere 攻防技法分享, KCON 2023
     
