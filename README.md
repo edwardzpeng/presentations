@@ -32,6 +32,12 @@ More things can be found in my personal site: https://sites.google.com/site/zhin
     Zhiniang Peng, danger of using fully homomorphic encryption, a look at microsoft seal, Presentation in Cansecwest, Opcde, Overdrive 2019.
     
     Zhiniang Peng, Many way to double spend your cryptocurrency, Presentation, NEO devcon 2019.  
+
+    Zhiniang Peng, 使用全同态加密构造数据安全方案的安全风险 - GIAC 2019 全球互联网架构大会
+
+    Zhiniang Peng, 零知识证明在区块链应用中的安全和隐私问题 - CCF 区块链开发者大会 2019
+
+    Zhiniang Peng, 区块链安全风险 - P.O.D New BlockTrend 2018 TED talk
     
     Zhiniang Peng, Some Mining Related Attacks, Presentation, Monero village, Defcon26. 2018 
     
