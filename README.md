@@ -37,6 +37,8 @@ More things can be found in my personal site: https://sites.google.com/site/zhin
 
     Zhiniang Peng, 零知识证明在区块链应用中的安全和隐私问题 - CCF 区块链开发者大会 2019
 
+    Zhiniang Peng,  A novel journey of blockchain security - Real World CTF 2018
+
     Zhiniang Peng, 区块链安全风险 - P.O.D New BlockTrend 2018 TED talk
     
     Zhiniang Peng, Some Mining Related Attacks, Presentation, Monero village, Defcon26. 2018 
