@@ -26,4 +26,4 @@ VMware vSphere is a comprehensive cloud computing infrastructure virtualization 
 
 2. Lateral movement techniques within vSphere clusters.
 
-3. Technical principles for creating covert backdoors within vSphere.
+3. Techniques for creating covert backdoors within vSphere.
