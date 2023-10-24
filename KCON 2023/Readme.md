@@ -18,3 +18,12 @@ VMware vSphere（简称 vSphere）是 VMware 旗下的一整套云计算基础�
 2. vSphere 集群中横向移动技术
 
 3. vSphere 中实现隐蔽后门的技术原理
+
+
+VMware vSphere is a comprehensive cloud computing infrastructure virtualization platform under the VMware umbrella, with over 250,000 global customers. It encompasses various components, including ESXi, vSphere client, and vCenter. While vSphere is highly favored by customers, it is also a critical battleground in the realm of cybersecurity, with notable attention on vSphere ransomware activities this year. However, discussions about vSphere attack and defense are relatively limited within the industry. This topic will introduce several attack and defense techniques within vSphere, focusing on the following:
+
+1. Introduction to stable exploitation methods of critical vulnerabilities in ESXi.
+
+2. Lateral movement techniques within vSphere clusters.
+
+3. Technical principles for creating covert backdoors within vSphere.
