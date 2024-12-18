@@ -1,0 +1,5 @@
+# Diving into Spooler: Discovering LPE and RCE Vulnerabilities in Windows Printer Driver - Blackhat Europe 2024
+
+In 2021, we shared extensive research on print spooler vulnerabilities during our Black Hat presentation, which included PrintNightmare. This brought the horrors of printers back into the spotlight. Since then, Microsoft has implemented a series of fixes and mitigations for printer vulnerabilities. But are printers safe now?
+With such questions in mind, in 2023-2024, we have dived into the Spooler once again, discovering a new attack surface — "Printer Driver Rendering". This attack surface has existed for more than a decade but has been ignored. Besides, this attack surface affects both Microsoft and several well-known printer companies. We have found 30+ unique vulnerabilities in this attack surface, most of which can be used for both RCE and LPE.
+In this talk, we will dive into the current printer rendering architecture and introduce the attack surface we have identified. Finally, we will share our experience and offer some tips on analyze a complex parsing component.
