@@ -5,7 +5,7 @@
 Our slides in chinese for KCON 2023. It's about attacking Vmware vSphere.
 
 
-VMware vSphere（简称 vSphere）是 VMware 旗下的一整套云计算基础架构虚拟化平台，自发布更新以来在全球已经拥有超过 250000 客户。vSphere 包括了 ESXi、vSphere client、vCeneter 等多个组件。
+VMware vSphere（简称 vSphere）是 VMware 旗下的一整套云计算基础架构虚拟化平台，自发布更新以来在全球已经拥有超过 250000 客户。vSphere 包括了 ESXi、vSphere client、vCenter 等多个组件。
 
 
 
