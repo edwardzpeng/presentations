@@ -1,8 +1,0 @@
-# Code is the (F)Law Demystifying and Mitigating Blockchain Inconsistency Attacks Caused by Software Bugs -- InfoCom 2021
-
-
-
-
-Blockchains promise to provide a tamper-proof medium for transactions, and thus enable many applications including cryptocurrency. As a system built on consensus, the correctness of a blockchain heavily relies on the consistency of states between its nodes. But consensus protocols of blockchains only guarantee the consistency in the transaction sequence rather than nodes&#x2019; internal states. Instead, nodes must replay and exe-cute all transactions to maintain their local states independently. When executing transactions, any different execution result could cause a node out-of-sync and thus gets isolated from other nodes.After systematically modeling the transaction execution process in blockchains, we present a new attack INCITE, which can lead different nodes to different states. Specifically, attackers could invoke an ambiguous transaction of a vulnerable smart contract, utilize software bugs in smart contracts to lead nodes that execute this transaction into different states. Unlike attacks that bring short-term inconsistencies, such as fork attacks, INCITE can cause nodes in the blockchain to fall into a long-term inconsistent state, which further leads to great damages to the chain (e.g., double-spending attacks and expelling mining power). We have discovered 7 0day vulnerabilities in 5 popular blockchains which can enable this attack. We also proposed a defense solution to mitigate this threat. Experiments showed that it is effective and lightweight.
-
-
