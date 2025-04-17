@@ -1,4 +1,4 @@
-# EOne Bug to Rule Them All: Stably Exploiting a Preauth RCE Vulnerability on Windows Server 2025 - Blackhat Asia 2025
+# One Bug to Rule Them All: Stably Exploiting a Preauth RCE Vulnerability on Windows Server 2025 - Blackhat Asia 2025
 
 As the security protection mechanisms of the Windows operating system are constantly being proposed and applied, it is becoming increasingly difficult to find exploitable vulnerabilities on current Windows, especially vulnerabilities that can cause preauth 0-click RCE. But, is there really no such vulnerabilities?
 
