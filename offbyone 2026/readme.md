@@ -1,4 +1,4 @@
-# A year of hacking with LLM
+# A Year of Hacking with LLMs
 
 Over the past year, the rapid advancement of large language models has fundamentally transformed offensive cybersecurity research. As a traditional security researcher with less AI background, I found myself increasingly relying on LLMs across multiple real-world offensive projects — and genuinely stunned by how fast the landscape is shifting.
 
